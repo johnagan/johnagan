@@ -12,7 +12,7 @@
   [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/johnagan)
 </div>
 
-For nearly 30 years I've been the person companies call when a product is ready to become a developer platform. I join at the inflection point — ship the APIs, SDKs, marketplaces, and partner integrations that get them there — and move when the platform motion matures.
+For nearly 30 years I've been the person companies call when they're scaling a developer platform. I join at the inflection point — ship the APIs, SDKs, marketplaces, and partner integrations that get them there — and move when the platform motion matures.
 
 I started as an engineer and a founder, building one of the first online mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
 
