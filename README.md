@@ -12,21 +12,15 @@
   [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/johnagan)
 </div>
 
----
-
 For nearly 30 years I've been the person companies call when a product is ready to become a developer platform. I join at the inflection point — ship the APIs, SDKs, marketplaces, and partner integrations that get them there — and move when the platform motion matures.
 
 I started as an engineer and a founder, building one of the first online mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
 
 After a decade leading developer-platform orgs through Director and VP roles, I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. The org chart was never the point.
 
----
-
 ## Currently
 
 Principal at **Aganomix** — advising developer-platform founders at the seed stage and working with enterprises on AI and developer-experience strategy. Based in Chicago, active in the Midwest startup community, and always making time for developers building something worth building.
-
----
 
 ## What I work on
 
@@ -37,7 +31,6 @@ Principal at **Aganomix** — advising developer-platform founders at the seed s
 | **Platform Partnerships** | The technical relationships and integrations that move products upmarket |
 | **0→1 Launches** | Slack Platform · Webflow App Marketplace · Replit AI Agent |
 
----
 
 ## Where I've built
 
@@ -48,11 +41,3 @@ Principal at **Aganomix** — advising developer-platform founders at the seed s
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-
----
-
-<div align="center">
-
-**→ [johnagan.com](https://johnagan.com)**
-
-</div>
