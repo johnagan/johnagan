@@ -22,15 +22,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-For nearly 30 years I've been the person companies call when they're scaling a developer platform. I join at the inflection point — ship the APIs, SDKs, marketplaces, and partner integrations that get them there — and move when the platform motion matures.
+I've worked in tech for 30 years, and the through-line has been developer platforms. I join products right before they become developer platforms, ship the APIs, SDKs, marketplaces, and partner integrations that get them there, and move when the platform motion matures.
 
-I started as an engineer and a founder, building one of the first online mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
+I started as an engineer and a founder, building one of the first digital mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
 
-After a decade leading developer-platform orgs through Director and VP roles, I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. The org chart was never the point.
+After a decade on the exec track — Director through VP — I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. The org chart was never the point.
 
 ## Currently
 
-Principal at **Aganomix** — advising developer-platform founders at the seed stage and working with enterprises on AI and developer-experience strategy. Based in Chicago, active in the Midwest startup community, and always making time for developers building something worth building.
+Principal at **Aganomix** — advising developer-platform founders at the seed stage and working with enterprises on AI and developer-experience strategy. Based in Chicago, active in the Midwest startup community, and making time for developer-platform founders building something worth building.
 
 ## What I work on
 
