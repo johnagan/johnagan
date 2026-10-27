@@ -26,7 +26,7 @@ I've worked in tech for 30 years, and the through-line has been developer platfo
 
 I started as an engineer and a founder, building one of the first digital mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
 
-After a decade on the exec track — Director through VP — I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. The org chart was never the point.
+After a decade on the exec track — Director through VP — I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. 
 
 ## Currently
 
