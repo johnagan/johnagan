@@ -4,7 +4,7 @@
 
   **I help developers build successful products, teams, and businesses.**
 
-  *Developer Platforms · AI · Extensibility · Chicago, IL*
+  *Platform Experience · Advisor · Investor · San Diego, CA*
 
   [![Website](https://img.shields.io/badge/johnagan.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://johnagan.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnagan)
@@ -14,6 +14,7 @@
 
 ## Where I've built
 
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
@@ -22,21 +23,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-I've worked in tech for 30 years, and the through-line has been developer platforms. I join products right before they become developer platforms, ship the APIs, SDKs, marketplaces, and partner integrations that get them there, and move when the platform motion matures.
+I've spent 30 years building developer platforms and the ecosystems around them. I usually show up right as a product opens up to developers, build the marketplaces, partnerships, and go-to-market that turn it into a platform, and move on once that motion is running on its own.
 
-I started as an engineer and a founder, building one of the first digital mortgage platforms before "fintech" was a word, then a banking-API company that gave credit unions the developer surface to ship modern products. That founder instinct never went away.
+I started as an engineer and a founder. I co-founded PC Mortgage, one of the first digital mortgage companies, and later Blackwire, which let credit unions and community banks build modern products on top of their legacy banking cores.
 
-After a decade on the exec track — Director through VP — I returned to the hands-on craft in 2025. The best work I've done has always been technical — API surfaces, partner integrations, the 0→1 platform launches. 
+After a decade leading product and engineering teams as a director and VP, I went back to hands-on work in 2025.
 
 ## Currently
 
-Principal at **Aganomix** — advising developer-platform founders at the seed stage and working with enterprises on AI and developer-experience strategy. Based in Chicago, active in the Midwest startup community, and making time for developer-platform founders building something worth building.
+Distinguished Product Manager at **ServiceNow**, in the Platform Experience group. I'm bringing AI agents into more of the platform and building the shared foundations other ServiceNow AI products reuse, including orchestration, memory, and secure action execution.
+
+I also advise and angel invest in seed-stage developer-platform and AI founders.
 
 ## What I work on
 
 | Area | |
 |---|---|
-| **Developer Platforms** | APIs, SDKs, marketplaces, and the extensibility patterns that turn products into ecosystems |
-| **AI Strategy** | Applied AI in developer tools, agent architecture, MCP, and how AI reshapes how developers build |
-| **Platform Partnerships** | The technical relationships and integrations that move products upmarket |
-| **0→1 Launches** | Slack Platform · Webflow App Marketplace · Replit AI Agent |
+| **Developer Platforms** | Marketplaces, extensibility, and the ecosystems that grow up around a product |
+| **AI Agents** | Agent platforms, orchestration, and how AI changes the way developers build |
+| **Partnerships & Go-to-Market** | The partners, integrations, and launches that take a platform to market |
+| **0→1 Launches** | Slack Platform · Webflow App Marketplace · Replit Agent |
